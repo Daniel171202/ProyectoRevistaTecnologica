@@ -230,7 +230,9 @@ header .navigation li a:hover{
         position: relative;
         width: 50px;
         height: 50px;
-        background: url('https://cdn-user-icons.flaticon.com/98533/98533371/1680650145556.svg?token=exp=1680651048~hmac=c222413f829dbda3f06443402e570928');
+        background: url('https://cdn-icons-png.flaticon.com/512/660/660376.png');
+        background-color: #FFF;
+        border-radius: 45px;
         background-size: 50px;
         background-repeat: no-repeat;
         background-position: center;
@@ -242,7 +244,9 @@ header .navigation li a:hover{
         width: 50px;
         height: 50px;
         right: 40px;
-        background: url('https://cdn-user-icons.flaticon.com/98533/98533371/1680649850442.svg?token=exp=1680650753~hmac=ba6cf2bf4658e8d33dca54c6940200d5');
+        background: url('https://cdn-icons-png.flaticon.com/512/660/660252.png');
+        background-color: #FFF;
+        border-radius: 45px;
         background-size: 50px;
         background-repeat: no-repeat;
         background-position: center;
