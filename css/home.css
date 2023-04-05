@@ -11,13 +11,15 @@ section{
     position: relative;
     width: 100%;
     min-height: 100vh;
-    padding: 100px;
+    padding: 150px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    display: inline-block;
     /*background: #161616;
     */background: #4E0082;
 }
+
 
 section .circle{
     position: absolute;
@@ -223,7 +225,7 @@ header .navigation li a:hover{
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        z-index: 10;
+        z-index: 902;
     }
 
     .toogle{
@@ -237,7 +239,7 @@ header .navigation li a:hover{
         background-repeat: no-repeat;
         background-position: center;
         cursor: pointer;
-        z-index: 10000;
+        z-index: 901;
     }
     .toogle.active{
         position: fixed;
@@ -250,6 +252,7 @@ header .navigation li a:hover{
         background-size: 50px;
         background-repeat: no-repeat;
         background-position: center;
+        z-index: 903;
     }
     header .navigation li a{
         display: inline-block;
