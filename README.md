@@ -4,7 +4,9 @@ distintas secciones para navegar, principalmente las siguientes:
 * Inicio
 * Contactanos
 ## Conformado por:
-[![Contribuidores][contributors-shield]][contributors-url]
+[![Contributors][contributors-url]
 * Andy Fabrizio Palenque Barriga
 * Ezequiel Gustavo Gomez Mancilla
 * Añadan sus nombres xd
+
+[contributors-url]: https://github.com/Daniel171202/ProyectoRevistaTecnologica/graphs/contributors
