@@ -40,11 +40,15 @@ distintas secciones para navegar, principalmente las siguientes:
 
 ## Imágenes preliminares del proyecto
 <div align="center">
-  <h3>Inicio<h3>
+  <h3>Inicio</h3>
   <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
     <img src="imagenes-preliminares/index.png" width="600" height="500">
   </a>
-
+  <h3>Desarrollo Web</h3>
+  <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
+    <img src="imagenes-preliminares/desarrollo web.png" width="600" height="500">
+  </a>
+</div>
 ## Participantes
 * Andy Fabrizio Palenque Barriga
 * Ezequiel Gustavo Gomez Mancilla
