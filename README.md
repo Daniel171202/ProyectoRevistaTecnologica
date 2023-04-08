@@ -39,25 +39,24 @@ distintas secciones para navegar, principalmente las siguientes:
 * <a href="Contactanos.html">Contáctanos</a>
 
 ## Imágenes preliminares del proyecto
-## Galería de Imágenes
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
+        <a href="imagenes-preliminares/index.png" onclick="window.open(this.href,'_blank','width=800,height=600');return false;">
           <img src="imagenes-preliminares/index.png" alt="Inicio" width="200"/>
         </a>
         <h3 align="center">Inicio</h3>
       </td>
       <td>
-        <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
+        <a href="imagenes-preliminares/desarrollo web.png" onclick="window.open(this.href,'_blank','width=800,height=600');return false;">
           <img src="imagenes-preliminares/desarrollo web.png" alt="Desarrollo Web" width="200"/>
         </a>
         <h3 align="center">Desarrollo Web</h3>
       </td>
       <td>
-        <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
+        <a href="imagenes-preliminares/inteligencia artificial.png" onclick="window.open(this.href,'_blank','width=800,height=600');return false;">
           <img src="imagenes-preliminares/inteligencia artificial.png" alt="Inteligencia Artificial" width="200"/>
         </a>
         <h3 align="center">Inteligencia Artificial</h3>
@@ -65,13 +64,13 @@ distintas secciones para navegar, principalmente las siguientes:
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
+        <a href="imagenes-preliminares/gestion tecnologica.png" onclick="window.open(this.href,'_blank','width=800,height=600');return false;">
           <img src="imagenes-preliminares/gestion tecnologica.png" alt="Gestión Tecnológica" width="200"/>
         </a>
         <h3 align="center">Gestión Tecnológica</h3>
       </td>
       <td>
-        <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
+        <a href="imagenes-preliminares/contactanos.png" onclick="window.open(this.href,'_blank','width=800,height=600');return false;">
           <img src="imagenes-preliminares/contactanos.png" alt="Contáctanos" width="200"/>
         </a>
         <h3 align="center">Contáctanos</h3>
