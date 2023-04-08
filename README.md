@@ -21,6 +21,9 @@
       <a href="#Sobre-el-proyecto">Sobre el proyecto</a>
     </li>
     <li>
+      <a href="#Imágenes-preliminares-del-proyecto">Imágenes preliminares del proyecto</a>
+    </li>
+    <li>
       <a href="#Participantes">Participantes</a>
     </li>
   </ol>
