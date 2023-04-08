@@ -40,7 +40,7 @@ distintas secciones para navegar, principalmente las siguientes:
 
 ## Imágenes preliminares del proyecto
 <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
-  <img src="imagenes-preliminares/index.png" width="150" height="150">
+  <img src="imagenes-preliminares/index.png" width="300" height="300">
 </a>
 
 ## Participantes
