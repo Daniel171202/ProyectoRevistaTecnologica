@@ -35,4 +35,4 @@ distintas secciones para navegar, principalmente las siguientes:
 * Andy Fabrizio Palenque Barriga
 * Ezequiel Gustavo Gomez Mancilla
 * Cristopher Victor Olivera Jimenez
-* Añadan sus nombres xd
+* Añadan sus nombres
