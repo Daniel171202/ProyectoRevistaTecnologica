@@ -80,7 +80,8 @@ distintas secciones para navegar, principalmente las siguientes:
 </div>
 
 ## Participantes
+* Daniel Ignacio Aldazosa Miranda
 * Andy Fabrizio Palenque Barriga
 * Ezequiel Gustavo Gomez Mancilla
 * Cristopher Victor Olivera Jimenez
-* Añadan sus nombres
+* Nilmar Yael Lutino Silva
