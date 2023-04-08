@@ -46,15 +46,15 @@ distintas secciones para navegar, principalmente las siguientes:
   </a>
   <h3>Desarrollo Web</h3>
   <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
-    <img src="imagenes-preliminares/desarrollo web.png" width="600" height="700">
+    <img src="imagenes-preliminares/desarrollo web.png" width="600" height="800">
   </a>
   <h3>Inteligencia Artificial</h3>
   <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
-    <img src="imagenes-preliminares/inteligencia artificial.png" width="600" height="750">
+    <img src="imagenes-preliminares/inteligencia artificial.png" width="600" height="800">
   </a>
   <h3>Gestión Tecnológica</h3>
   <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
-    <img src="imagenes-preliminares/gestion tecnologica.png" width="600" height="750">
+    <img src="imagenes-preliminares/gestion tecnologica.png" width="600" height="800">
   </a>
   <h3>Contáctanos</h3>
   <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
