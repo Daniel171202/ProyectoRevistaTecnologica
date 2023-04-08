@@ -30,6 +30,8 @@
 El presente proyecto consiste en un sitio web para una revista tecnologica, la cual contiene
 distintas secciones para navegar, principalmente las siguientes:
 * <a href="index1.html">Inicio</a>
+* <a href="GestionTecnologica.html">Gestión Tecnológica</a>
+* <a href="desarrolloWeb.html">Desarrollo Web</a>
 * <a href="Contactanos.html">Contactanos</a>
 ## Participantes
 * Andy Fabrizio Palenque Barriga
