@@ -29,8 +29,8 @@
 ## Sobre el proyecto
 El presente proyecto consiste en un sitio web para una revista tecnologica, la cual contiene
 distintas secciones para navegar, principalmente las siguientes:
-* Inicio
-* Contactanos
+* <a href="index1.html">Inicio</a>
+* <a href="Contactanos.html">Contactanos</a>
 ## Participantes
 * Andy Fabrizio Palenque Barriga
 * Ezequiel Gustavo Gomez Mancilla
