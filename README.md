@@ -30,7 +30,7 @@
 </details>
 
 ## Sobre el proyecto
-El presente proyecto consiste en un sitio web para una revista tecnologica, la cual contiene
+El presente proyecto consiste en un sitio web para una revista tecnológica, la cual contiene
 distintas secciones para navegar, principalmente las siguientes:
 * <a href="index1.html">Inicio</a>
 * <a href="desarrolloWeb.html">Desarrollo Web</a>
