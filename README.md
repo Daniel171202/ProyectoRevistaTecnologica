@@ -8,7 +8,9 @@
         <br />
         <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica"><strong>Explorar los archivos »</strong></a>
         <br>
+        ·
         <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica/issues">Reportar un Bug</a>
+        ·
     </p>
     
 </div>
