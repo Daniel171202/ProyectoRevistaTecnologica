@@ -39,27 +39,45 @@ distintas secciones para navegar, principalmente las siguientes:
 * <a href="Contactanos.html">Contáctanos</a>
 
 ## Imágenes preliminares del proyecto
+## Galería de Imágenes
+
 <div align="center">
-  <h3>Inicio</h3>
-  <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
-    <img src="imagenes-preliminares/index.png" width="600" height="500">
-  </a>
-  <h3>Desarrollo Web</h3>
-  <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
-    <img src="imagenes-preliminares/desarrollo web.png" width="600" height="800">
-  </a>
-  <h3>Inteligencia Artificial</h3>
-  <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
-    <img src="imagenes-preliminares/inteligencia artificial.png" width="600" height="800">
-  </a>
-  <h3>Gestión Tecnológica</h3>
-  <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
-    <img src="imagenes-preliminares/gestion tecnologica.png" width="600" height="800">
-  </a>
-  <h3>Contáctanos</h3>
-  <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
-    <img src="imagenes-preliminares/contactanos.png" width="600" height="500">
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
+          <img src="imagenes-preliminares/index.png" alt="Inicio" width="200"/>
+        </a>
+        <h3 align="center">Inicio</h3>
+      </td>
+      <td>
+        <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
+          <img src="imagenes-preliminares/desarrollo web.png" alt="Desarrollo Web" width="200"/>
+        </a>
+        <h3 align="center">Desarrollo Web</h3>
+      </td>
+      <td>
+        <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
+          <img src="imagenes-preliminares/inteligencia artificial.png" alt="Inteligencia Artificial" width="200"/>
+        </a>
+        <h3 align="center">Inteligencia Artificial</h3>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
+          <img src="imagenes-preliminares/gestion tecnologica.png" alt="Gestión Tecnológica" width="200"/>
+        </a>
+        <h3 align="center">Gestión Tecnológica</h3>
+      </td>
+      <td>
+        <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
+          <img src="imagenes-preliminares/contactanos.png" alt="Contáctanos" width="200"/>
+        </a>
+        <h3 align="center">Contáctanos</h3>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## Participantes
