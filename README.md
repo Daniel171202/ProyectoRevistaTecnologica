@@ -34,4 +34,5 @@ distintas secciones para navegar, principalmente las siguientes:
 ## Participantes
 * Andy Fabrizio Palenque Barriga
 * Ezequiel Gustavo Gomez Mancilla
+* Cristopher Victor Olivera Jimenez - Noticias sobre desarrollo web
 * Añadan sus nombres xd
