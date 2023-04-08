@@ -39,7 +39,9 @@ distintas secciones para navegar, principalmente las siguientes:
 * <a href="Contactanos.html">Contactanos</a>
 
 ## Imágenes preliminares del proyecto
-<img src="imágenes-preliminares/index.png"></img>
+<a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
+  <img src="imagenes-preliminares/index.png" width="150" height="150">
+</a>
 
 ## Participantes
 * Andy Fabrizio Palenque Barriga
