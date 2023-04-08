@@ -49,6 +49,7 @@ distintas secciones para navegar, principalmente las siguientes:
     <img src="imagenes-preliminares/desarrollo web.png" width="600" height="500">
   </a>
 </div>
+
 ## Participantes
 * Andy Fabrizio Palenque Barriga
 * Ezequiel Gustavo Gomez Mancilla
