@@ -36,7 +36,7 @@ distintas secciones para navegar, principalmente las siguientes:
 * <a href="desarrolloWeb.html">Desarrollo Web</a>
 * <a href="ia.html">Inteligencia Artifical</a>
 * <a href="GestionTecnologica.html">Gestión Tecnológica</a>
-* <a href="Contactanos.html">Contactanos</a>
+* <a href="Contactanos.html">Contáctanos</a>
 
 ## Imágenes preliminares del proyecto
 <div align="center">
