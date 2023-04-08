@@ -10,7 +10,7 @@
     </p>
 </div>
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Tabla de contenidos</summary>
   <ol>
     <li>
       <a href="#Sobre-el-proyecto">Sobre el proyecto</a>
