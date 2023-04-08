@@ -39,7 +39,7 @@ distintas secciones para navegar, principalmente las siguientes:
 * <a href="Contactanos.html">Contactanos</a>
 
 ## Imágenes preliminares del proyecto
-
+<img src="imágenes-preliminares/index.png"></img>
 
 ## Participantes
 * Andy Fabrizio Palenque Barriga
