@@ -2,6 +2,7 @@
     <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica">
         <img src="https://i.ibb.co/h8L4KKM/logo-revista.png" alt="Logo" width="80" height="80">
     </a>
+    <h3 align="center">REVISTA-TEC-UCB</h3>
 </div>
 
 # PROYECTO ENTREVISTA TECNOLOGICA
