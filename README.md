@@ -7,7 +7,11 @@
         Sitio Web para nuestra revista de tecnología
         <br />
         <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica"><strong>Explorar los archivos »</strong></a>
+        ·
+            <a href="https://github.com/Daniel171202/ProyectoRevistaTecnologica/issues">Report Bug</a>
+        ·
     </p>
+    
 </div>
 <details>
   <summary>Tabla de contenidos</summary>
