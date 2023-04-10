@@ -83,5 +83,5 @@ distintas secciones para navegar, principalmente las siguientes:
 * Daniel Ignacio Aldazosa Miranda
 * Andy Fabrizio Palenque Barriga
 * Ezequiel Gustavo Gomez Mancilla
-* Cristopher Victor Olivera Jimenez - Noticias desarrollo web
+* Cristopher Victor Olivera Jimenez - Desarrollo web
 * Nilmar Yael Lutino Silva
