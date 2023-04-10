@@ -109,6 +109,65 @@ header .navigation li a:hover{
     text-decoration: none;
 }
 
+.content .textBox2{
+    position: relative;
+    top:100%;
+    max-width:600px;
+    margin-right: 20px;
+}
+.content .textBox2 a{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 8px 20px;
+    background: #271036;
+    color: #fff;
+    border-radius: 40px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.content .textBox2 h2{
+    color: #fff;
+    font-size: 3em;
+    margin-bottom: 10px;
+    line-height: 1.4em;
+    font-weight: 700;
+}
+
+.content #Mision-box {
+    background-color: #4E0082;
+    width: 600px;
+    border: 5px solid #271036;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 20px;
+    position: relative;
+    margin-left: -50px;
+  }
+
+.content #Mision-box p{
+    color: #fff;
+    font-size: 3em;
+    margin-bottom: 10px;
+    line-height: 1.4em;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+section .seccion2{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    padding: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /*background: #161616;
+    */background: #4E0082;
+}
+
 .sci{
     position: absolute;
     bottom: 40px;
