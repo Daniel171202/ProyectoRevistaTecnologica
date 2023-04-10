@@ -84,4 +84,4 @@ distintas secciones para navegar, principalmente las siguientes:
 * Andy Fabrizio Palenque Barriga
 * Ezequiel Gustavo Gomez Mancilla
 * Cristopher Victor Olivera Jimenez - Desarrollo web
-* Nilmar Yael Lutino Silva
+* Nilmar Yael Lutino Silva - Página inicio (Index1.html) y diseño general del proyecto.
