@@ -81,7 +81,7 @@ distintas secciones para navegar, principalmente las siguientes:
 
 ## Participantes
 * Daniel Ignacio Aldazosa Miranda
-* Andy Fabrizio Palenque Barriga - Readme.md + sección "Nuestra Misión" en index1.html
+* Andy Fabrizio Palenque Barriga - README.md + sección "Nuestra Misión" en index1.html
 * Ezequiel Gustavo Gomez Mancilla
 * Cristopher Victor Olivera Jimenez - Desarrollo web
 * Nilmar Yael Lutino Silva - Página inicio (Index1.html) y diseño general del proyecto.
